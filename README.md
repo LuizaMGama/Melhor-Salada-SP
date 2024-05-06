@@ -1,5 +1,6 @@
 # Melhor-Salada-SP
-![Preview](C:\Users\Aluno\Downloads\ProjetoSala.jpg)
+![Preview]![ProjetoSala](https://github.com/LuizaMGama/Melhor-Salada-SP/assets/164073139/c1dc5eaa-8e2c-4d9d-8c73-6aaf95cdcc7b)
+
 <br>
 Prototipagem de um website de saladas utilizando a ferramenta Figma.
 Prototipagem do projeto realizada durante a aula do professor Jailson Costa.
